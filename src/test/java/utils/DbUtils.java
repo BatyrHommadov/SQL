@@ -33,5 +33,15 @@ public class DbUtils {
         }
         return tableData;
 
+
+    }
+    public static void update(String query) {
+        try (Connection connection = DriverManager.getConnection(ConfigFileReader.getPropertyV("dbURL"),
+                ConfigFileReader.getPropertyV("dbUserName"), ConfigFileReader.getPropertyV("dbPassword"));
+             Statement statement = connection.createStatement();) {
+            statement.executeUpdate(query);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 }

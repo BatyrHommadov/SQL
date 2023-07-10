@@ -4,45 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deccdeae-3503-4f05-adb1-e5738a99d6b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AddEmployeePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashBoardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/EmployeeListPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PersonalDetailsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RecruitmentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/SQL Class5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Regression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Smoke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/AddEmployeeSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/HomePageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/SearchCandidateSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/BrowserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ConfigFileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DbUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/PageInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/WebDriverUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/AddEmployee.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/HomePage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginFeature.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/searchCandidates.feature" afterDir="false" />
+    <list default="true" id="deccdeae-3503-4f05-adb1-e5738a99d6b8" name="Changes" comment="Last SQL class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/practice/SQLDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DbUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/Batyr/Desktop/SDET/Batch15/Git/B15CucumberFramework/src/test/java/practice",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Batyr/Desktop/SDET/Batch15/Git/B15CucumberFramework/src/test/java/practice&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/practice" />
@@ -92,7 +57,7 @@
       <recent name="practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Add one employee">
+  <component name="RunManager" selected="Application.SQLDemo4">
     <configuration name="SQLDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.SQLDemo1" />
       <module name="B15CucumberFramework" />
@@ -167,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Add one employee" />
         <item itemvalue="Application.SQLDemo4" />
+        <item itemvalue="Cucumber Java.Scenario: Add one employee" />
         <item itemvalue="Application.SQLDemo3" />
         <item itemvalue="Application.SQLDemo2" />
         <item itemvalue="Application.SQLDemo1" />
@@ -184,6 +149,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685561107948</updated>
     </task>
+    <task id="LOCAL-00001" summary="Last SQL class">
+      <created>1688760633255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688760633255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Last SQL class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last SQL class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
