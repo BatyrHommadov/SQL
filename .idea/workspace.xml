@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deccdeae-3503-4f05-adb1-e5738a99d6b8" name="Changes" comment="Last SQL class">
+    <list default="true" id="deccdeae-3503-4f05-adb1-e5738a99d6b8" name="Changes" comment="front and back end verification update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/practice/SQLDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/practice/SQLDemo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DbUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DbUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688760633255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="front and back end verification update">
+      <created>1689020471722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689020471722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Last SQL class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last SQL class" />
+    <MESSAGE value="front and back end verification update" />
+    <option name="LAST_COMMIT_MESSAGE" value="front and back end verification update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
